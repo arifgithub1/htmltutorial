@@ -1,0 +1,66 @@
+/* Test.css */
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.2;
+    margin: 0;
+    padding: 0;
+    background-color: #318a96;
+}
+
+header {
+    background-color: hsla(19, 95%, 46%, 0.925);
+    color: #10eb72;
+    text-align: center;
+    padding: 1rem;
+}
+
+nav {
+    background-color: #2f9140;
+    color: #fff;
+    padding: 0.5rem;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    background-color: #fff;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
